@@ -42,12 +42,12 @@
 -
   index: 'map_9'
   country_name: 'AUSTRIA'
-  visited: true
+  visited: false
 
 -
   index: 'map_10'
   country_name: 'AZERBAIJAN'
-  visited: false
+  visited: true
 
 -
   index: 'map_11'
@@ -67,7 +67,7 @@
 -
   index: 'map_14'
   country_name: 'BELARUS'
-  visited: false
+  visited: true
 
 -
   index: 'map_15'
@@ -197,7 +197,7 @@
 -
   index: 'map_40'
   country_name: 'CYPRUS'
-  visited: false
+  visited: true
 
 -
   index: 'map_41'
@@ -292,7 +292,7 @@
 -
   index: 'map_59'
   country_name: 'GEORGIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_60'
@@ -347,7 +347,7 @@
 -
   index: 'map_70'
   country_name: 'HUNGARY'
-  visited: false
+  visited: true
 
 -
   index: 'map_71'
@@ -367,7 +367,7 @@
 -
   index: 'map_74'
   country_name: 'IRAN'
-  visited: false
+  visited: true
 
 -
   index: 'map_75'
@@ -642,7 +642,7 @@
 -
   index: 'map_129'
   country_name: 'POLAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_130'
@@ -667,7 +667,7 @@
 -
   index: 'map_134'
   country_name: 'RUSSIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_135'
@@ -827,7 +827,7 @@
 -
   index: 'map_166'
   country_name: 'TURKEY'
-  visited: false
+  visited: true
 
 -
   index: 'map_167'
@@ -842,7 +842,7 @@
 -
   index: 'map_169'
   country_name: 'UKRAINE'
-  visited: false
+  visited: true
 
 -
   index: 'map_170'
